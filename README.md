@@ -3,7 +3,7 @@
 Employing various machine learning algorithms to cope with real world data
 
 ## List of algorithms (ongoing)
-* Predict median house values in Californian districts
+* 01 Predict median house values in Californian districts
 
 ## Authors
 
