@@ -5,6 +5,7 @@ Employing various machine learning algorithms to cope with real world data
 ## List of algorithms (ongoing)
 * 01 Predict median house values in Californian districts
 * 02 Classify MNIST images
+* 03 Training Model
 
 ## Authors
 
