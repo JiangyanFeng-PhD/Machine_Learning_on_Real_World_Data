@@ -7,6 +7,7 @@ Employing various machine learning algorithms to cope with real world data
 * 02 Classify MNIST images
 * 03 Training Model
 * 04 Support Vector Machines
+* 05 Decision Trees
 
 ## Authors
 
