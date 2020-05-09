@@ -9,6 +9,7 @@ Employing various machine learning algorithms to cope with real world data
 * 04 Support Vector Machines
 * 05 Decision Trees
 * 06 Ensemble Learning and Random Forest
+* 07 Dimensionality Reduction
 
 ## Authors
 
