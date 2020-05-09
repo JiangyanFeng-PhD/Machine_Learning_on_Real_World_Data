@@ -8,6 +8,7 @@ Employing various machine learning algorithms to cope with real world data
 * 03 Training Model
 * 04 Support Vector Machines
 * 05 Decision Trees
+* 06 Ensemble Learning and Random Forest
 
 ## Authors
 
